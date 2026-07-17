@@ -1,0 +1,41 @@
+{
+  "name": "authshield",
+  "version": "1.0.0",
+  "description": "A learning and practice project for building authentication in Node.js using Express, MongoDB, JWT, bcrypt, and protected routes.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "test": "echo \"No tests added yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supriyaguess/AuthShield.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "authentication",
+    "jwt",
+    "bcrypt",
+    "backend",
+    "rest-api",
+    "learning-project"
+  ],
+  "author": "Supriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supriyaguess/AuthShield/issues"
+  },
+  "homepage": "https://github.com/supriyaguess/AuthShield#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
