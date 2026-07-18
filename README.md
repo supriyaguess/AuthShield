@@ -36,12 +36,6 @@ The main purpose of this repository is to practice backend development concepts 
 
 This project is created for educational and practice purposes. It may continue to improve as I learn more about authentication, backend security, validation, and production-ready API development.
 
-## Tutorial Reference
-
-This project was developed while following and practicing concepts from an authentication tutorial available on YouTube.
-
-The code in this repository is written and organized as part of my personal learning process.
-
 ## Status
 
 Currently under development and learning.
